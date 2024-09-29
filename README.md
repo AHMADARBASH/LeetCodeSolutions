@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
