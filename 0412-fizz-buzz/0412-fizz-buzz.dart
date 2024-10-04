@@ -9,7 +9,7 @@ class Solution {
       } else if (i % 3 == 0) {
         data.add("Fizz");
       } else {
-        data.add(i.toString());
+        data.add("$i");
       }
     }
     return data;
