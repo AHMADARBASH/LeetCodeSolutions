@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
