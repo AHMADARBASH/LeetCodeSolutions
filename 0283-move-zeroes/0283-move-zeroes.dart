@@ -1,16 +1,7 @@
 class Solution {
  void moveZeroes(List<int> nums) {
-    int c = 0;
-    for (int i = 0; i < nums.length; i++) {
-      if (c > nums.length) {
-        break;
-      }
-      if (nums[i] == 0) {
-        nums.removeAt(i);
-        nums.add(0);
-        i--;
-      }
-      c++;
-    }
+    int c = nums.length;
+    nums.removeWhere((e) => e == 0);
+    nums.addAll(List.generate(c - nums.length, (i) => 0));
   }
 }
