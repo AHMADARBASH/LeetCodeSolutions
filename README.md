@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0441-arranging-coins) |
 ## Brainteaser
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0292-nim-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
