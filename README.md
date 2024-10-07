@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
 | ------- |
@@ -101,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
