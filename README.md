@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
