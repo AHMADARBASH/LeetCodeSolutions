@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0507-perfect-number) |
 ## String
 |  |
 | ------- |
