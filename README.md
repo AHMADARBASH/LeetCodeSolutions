@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Linked List
 |  |
 | ------- |
