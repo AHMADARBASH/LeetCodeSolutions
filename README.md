@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1031-add-to-array-form-of-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
 ## Two Pointers
 |  |
 | ------- |
