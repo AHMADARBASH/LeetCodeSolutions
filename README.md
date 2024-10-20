@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
+| [1086-divisor-game](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1086-divisor-game) |
 ## String
 |  |
 | ------- |
@@ -160,10 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1086-divisor-game) |
 ## Interactive
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
