@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
+| [0680-valid-palindrome-ii](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0680-valid-palindrome-ii](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -205,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
