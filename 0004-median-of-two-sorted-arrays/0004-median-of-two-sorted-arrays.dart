@@ -3,8 +3,6 @@ class Solution {
     nums1.addAll(nums2);
     nums1.sort();
     if (nums1.length % 2 == 0) {
-      print(nums1[nums1.length ~/ 2]);
-      print(nums1[(nums1.length ~/ 2) + -1]);
       var res = (nums1[nums1.length ~/ 2] + nums1[(nums1.length ~/ 2) - 1]) / 2;
       return res;
     } else {
