@@ -22,8 +22,6 @@ class Solution {
     }
     num1 = num1.reversed.toList();
     num2 = num2.reversed.toList();
-    print(num1);
-    print(num2);
     for (int i = 0; i < num1.length; i++) {
       r1 = r1 * BigInt.from(10);
       r1 += BigInt.from(num1[i]);
@@ -32,10 +30,7 @@ class Solution {
       r2 = r2 * BigInt.from(10);
       r2 += BigInt.from(num2[i]);
     }
-    print(r1);
-    print(r2);
     BigInt num3 = r1 + r2;
-    print(num3);
     ListNode? l3 = ListNode(0, null);
     ListNode? head = l3;
     while (num3 >= BigInt.from(1)) {
