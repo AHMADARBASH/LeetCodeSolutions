@@ -3,7 +3,7 @@ class Solution {
     int i = 0;
     while (i * i <= x) {
       if (i * i > x) {
-        break;
+        return i - 1;
       } else {
         i++;
       }
