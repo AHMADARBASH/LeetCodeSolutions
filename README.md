@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0067-add-binary) |
@@ -103,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0231-power-of-two) |
