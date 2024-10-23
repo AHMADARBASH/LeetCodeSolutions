@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
