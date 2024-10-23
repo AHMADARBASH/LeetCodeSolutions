@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0191-number-of-1-bits) |
 ## Counting
@@ -242,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0817-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
