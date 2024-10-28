@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1086-divisor-game) |
+| [1260-day-of-the-year](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [1260-day-of-the-year](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1260-day-of-the-year) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
