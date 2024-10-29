@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1260-day-of-the-year) |
 | [2470-removing-stars-from-a-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
