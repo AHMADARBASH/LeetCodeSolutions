@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1156-occurrences-after-bigram) |
 | [1260-day-of-the-year](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1260-day-of-the-year) |
+| [2235-capitalize-the-title](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
