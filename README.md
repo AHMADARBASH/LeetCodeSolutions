@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0816-design-hashset](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0817-design-hashmap) |
 | [1031-add-to-array-form-of-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 ## Number Theory
 |  |
 | ------- |
