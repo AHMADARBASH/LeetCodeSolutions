@@ -1,19 +1,30 @@
 class Solution {
-  double findMaxAverage(List<int> nums, int k) {
-  if (nums.length < k) {
-    return 0;
+double findMaxAverage(List<int> nums, int k) {
+    if (nums.length == 1) {
+      return nums[0].toDouble();
+    }
+    if (nums.isEmpty) {
+      return 0;
+    }
+    int i = 0;
+    int j = k - 1;
+    List<double> avgs = [];
+      double temp = 0;
+    while (j <= nums.length - 1) {
+      if (i == 0) {
+        for (int x = i; x <= j; x++) {
+          temp += nums[x];
+        }
+      } else {
+        temp -= nums[i-1];
+        temp += nums[j];
+      }
+      avgs.add(temp / k);
+
+      i++;
+      j++;
+    }
+    avgs.sort();
+    return avgs[avgs.length - 1];
   }
-  double currentSum = 0;
-  for (int i = 0; i < k; i++) {
-    currentSum += nums[i];
-  }
-  double maxSum = currentSum;
-  
-  for (int i = k; i < nums.length; i++) {
-    currentSum = currentSum - nums[i - k] + nums[i];
-    maxSum = maxSum > currentSum ? maxSum : currentSum;
-  }
-  
-  return maxSum / k;
-}
 }
