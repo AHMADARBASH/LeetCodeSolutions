@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [0742-to-lower-case](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1156-occurrences-after-bigram](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1156-occurrences-after-bigram) |
