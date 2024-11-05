@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0817-design-hashmap) |
 | [1031-add-to-array-form-of-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
+| [2639-separate-the-digits-in-an-array](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2639-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
+| [2639-separate-the-digits-in-an-array](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
