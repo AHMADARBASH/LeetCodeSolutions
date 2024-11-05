@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2630-alternating-digit-sum](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2630-alternating-digit-sum) |
 ## String
 |  |
 | ------- |
