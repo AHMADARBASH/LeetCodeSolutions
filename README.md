@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2235-capitalize-the-title) |
 | [2470-removing-stars-from-a-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2886-faulty-keyboard](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2886-faulty-keyboard) |
 | [3468-find-the-encrypted-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3468-find-the-encrypted-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3636-check-balanced-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2886-faulty-keyboard](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2886-faulty-keyboard) |
 ## Stack
 |  |
 | ------- |
