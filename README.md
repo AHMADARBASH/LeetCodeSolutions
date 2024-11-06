@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3468-find-the-encrypted-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3468-find-the-encrypted-string) |
+| [3636-check-balanced-string](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3636-check-balanced-string) |
 ## Array
 |  |
 | ------- |
