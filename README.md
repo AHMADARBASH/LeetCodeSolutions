@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0817-design-hashmap) |
 | [1031-add-to-array-form-of-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
 | [2639-separate-the-digits-in-an-array](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2639-separate-the-digits-in-an-array) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0908-middle-of-the-linked-list) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Linked List
 |  |
 | ------- |
