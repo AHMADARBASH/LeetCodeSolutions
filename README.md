@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2630-alternating-digit-sum](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2630-alternating-digit-sum) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/0817-design-hashmap) |
 | [1031-add-to-array-form-of-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1031-add-to-array-form-of-integer) |
 | [2639-separate-the-digits-in-an-array](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2639-separate-the-digits-in-an-array) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
 | ------- |
