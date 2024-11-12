@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2630-alternating-digit-sum](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2630-alternating-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/AHMADARBASH/LeetCodeSolutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
